@@ -11,3 +11,5 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
+[What is Accessibility Testing?](https://www.guru99.com/accessibility-testing.html)
+[Writing Automated Tests for Accessibility](https://www.deque.com/blog/writing-automated-tests-accessibility/)
